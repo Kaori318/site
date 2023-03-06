@@ -1,52 +1,14 @@
 {
   "posts": [
- {
-   "id": 1,
-   "name": "Конная прогулка",
-   "img": "../../img/1.jpg",
-   "imgs": [
-    {"id": 0,"value": "../../img/1.jpg"},
-    {"id": 1,"value": "https://source.unsplash.com/user/c_v_r/1900x800"},
-    {"id": 2,"value": "https://source.unsplash.com/user/c_v_r/100x100"},
-   ],
-   "price": "от 990",
-  "desc": "Конныелей Романтиия - ипподром за Парком Победы"
-  },
-  {
-   "id": 2,
-   "name": "Полет на мотопараплане",
-   "img": "../../img/2.jpg",
-   "imgs": [
-    {"id": 0,"value": "../../img/2.jpg"},
-    {"id": 1,"value": "https://source.unsplash.com/user/c_v_r/1900x800"},
-    {"id": 2,"value": "https://source.unsplash.com/user/c_v_r/100x100"},
-   ],
-   "price": "3000",
-   "desc":"Людям птичьязью асный вид летательного аким и безопасным. "
-  },
-  {
-   "id": 3,
-   "name": "Полет в аэротрубе",
-   "img": "../../img/3.jpg",
-   "imgs": [
-    {"id": 0,"value": "../../img/3.jpg"},
-    {"id": 1,"value": "https://source.unsplash.com/user/c_v_r/1900x800"},
-    {"id": 2,"value": "https://source.unsplash.com/user/c_v_r/100x100"},
-   ],
-   "price": "от 1800",
-   "desc": "Аэрорядом с впроинформирует о технике безопасности. "
-  },
-  {
-   "id": 4,
-   "name": "Вечер в куполе",
-   "img": "../../img/4.jpg",
-   "imgs": [
-    {"id": 0,"value": "../../img/4.jpg"},
-    {"id": 1,"value": "https://source.unsplash.com/user/c_v_r/1900x800"},
-    {"id": 2,"value": "https://source.unsplash.com/user/c_v_r/100x100"},
-   ],
-   "price": "3000",
-   "desc": "Уютнодажети время Вкусные и сытные закуски Ароматный чай Ромильно декорированный купол "
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  ]
 }
