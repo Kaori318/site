@@ -2,11 +2,11 @@
  {
    "id": 1,
    "name": "Конная прогулка",
-   "img": "../../img/1.jpg",
+   "img": "../../img/horse_riding1.jpg",
    "imgs": [
-    {"id": 0,"value": "../../img/1.jpg"},
-    {"id": 1,"value": "https://source.unsplash.com/user/c_v_r/1900x800"},
-    {"id": 2,"value": "https://source.unsplash.com/user/c_v_r/100x100"}
+    {"id": 0,"value": "../../img/horse_riding1.jpg"},
+    {"id": 1,"value": "../../img/horse_riding2.jpg"},
+    {"id": 2,"value": "../../img/horse_riding3.jpg"}
    ],
    "price": "от 990",
    "desc": ["Конные прогулки подходят как для взрослых, так и для детей от 3 лет.",
@@ -26,11 +26,11 @@
   {
    "id": 2,
    "name": "Полет на мотопараплане",
-   "img": "../../img/2.jpg",
+   "img": "../../img/paragliding_flight1.jpg",
    "imgs": [
-    {"id": 0,"value": "../../img/2.jpg"},
-    {"id": 1,"value": "https://source.unsplash.com/user/c_v_r/1900x800"},
-    {"id": 2,"value": "https://source.unsplash.com/user/c_v_r/100x100"}
+    {"id": 0,"value": "../../img/paragliding_flight1.jpg"},
+    {"id": 1,"value": "../../img/paragliding_flight2.jpg"},
+    {"id": 2,"value": "../../img/paragliding_flight3.jpg"}
    ],
    "price": "3000",
    "desc": ["Людям всегда было свойственно мечтать о небе, стремиться к простору и горизонтам.",
