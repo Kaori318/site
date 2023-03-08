@@ -3,80 +3,200 @@
  {
    "id": 1,
    "name": "Конная прогулка",
-   "img": "../../img/1.jpg",
+   "img": "../../img/horse_riding1.jpg",
    "price": "от 990"
   },
   {
    "id": 2,
    "name": "Полет на мотопараплане",
-   "img": "../../img/2.jpg",
+   "img": "../../img/paragliding_flight1.jpg",
    "price": "3000"
   },
   {
    "id": 3,
    "name": "Полет в аэротрубе",
-   "img": "../../img/3.jpg",
+   "img": "../../img/flight_in_a_wind_tunnel1.jpg",
    "price": "от 1800"
   },
   {
    "id": 4,
    "name": "Вечер в куполе",
-   "img": "../../img/4.jpg",
+   "img": "../../img/evening_in_the_dome1.jpg",
    "price": "3000"
   },
   {
    "id": 5,
    "name": "Прогулка на яхте «Чайка»",
-   "img": "../../img/5.jpg",
+   "img": "../../img/yacht_trip1.jpg",
    "price": "от 3500"
   },
   {
    "id": 6,
    "name": "Велопрогулка с пикником",
-   "img": "../../img/6.jpg",
+   "img": "../../img/bike_ride_with_picnic1.jpg",
    "price": "3000"
   },
   {
    "id": 7,
    "name": "Драйв на квадроциклах",
-   "img": "../../img/7.jpg",
+   "img": "../../img/quad_bike_drive1.jpg",
    "price": "от 1800"
   },
   {
    "id": 8,
    "name": "Запись песни в студии",
-   "img": "../../img/8.jpg",
+   "img": "../../img/recording_in_a_studio1.jpg",
    "price": "5000"
   },
   {
    "id": 9,
    "name": "Поездка на болотоходах",
-   "img": "../../img/9.jpg",
+   "img": "../../img/swamp_ride1.jpg",
    "price": "3500"
   },
   {
    "id": 10,
    "name": "Игра в виртуальной реальности",
-   "img": "../../img/10.jpg",
+   "img": "../../img/virtual_reality_game1.jpg",
    "price": "600"
   },
   {
    "id": 11,
    "name": "Романтический пикник",
-   "img": "../../img/11.jpg",
+   "img": "../../img/romantic_picnic1.jpg",
    "price": "2500"
   },
  {
    "id": 12,
    "name": "Конная прогулка",
-   "img": "../../img/1.jpg",
+   "img": "../../img/horse_riding1.jpg",
    "price": "от 990"
   },
   {
    "id": 13,
    "name": "Полет на мотопараплане",
-   "img": "../../img/2.jpg",
+   "img": "../../img/paragliding_flight1.jpg",
    "price": "3000"
+  },
+  {
+   "id": 14,
+   "name": "Полет в аэротрубе",
+   "img": "../../img/flight_in_a_wind_tunnel1.jpg",
+   "price": "от 1800"
+  },
+  {
+   "id": 15,
+   "name": "Вечер в куполе",
+   "img": "../../img/evening_in_the_dome1.jpg",
+   "price": "3000"
+  },
+  {
+   "id": 16,
+   "name": "Прогулка на яхте «Чайка»",
+   "img": "../../img/yacht_trip1.jpg",
+   "price": "от 3500"
+  },
+  {
+   "id": 17,
+   "name": "Велопрогулка с пикником",
+   "img": "../../img/bike_ride_with_picnic1.jpg",
+   "price": "3000"
+  },
+  {
+   "id": 18,
+   "name": "Драйв на квадроциклах",
+   "img": "../../img/quad_bike_drive1.jpg",
+   "price": "от 1800"
+  },
+  {
+   "id": 19,
+   "name": "Запись песни в студии",
+   "img": "../../img/recording_in_a_studio1.jpg",
+   "price": "5000"
+  },
+  {
+   "id": 20,
+   "name": "Поездка на болотоходах",
+   "img": "../../img/swamp_ride1.jpg",
+   "price": "3500"
+  },
+  {
+   "id": 21,
+   "name": "Игра в виртуальной реальности",
+   "img": "../../img/virtual_reality_game1.jpg",
+   "price": "600"
+  },
+  {
+   "id": 22,
+   "name": "Романтический пикник",
+   "img": "../../img/romantic_picnic1.jpg",
+   "price": "2500"
+  },
+    {
+   "id": 23,
+   "name": "Конная прогулка",
+   "img": "../../img/horse_riding1.jpg",
+   "price": "от 990"
+  },
+  {
+   "id": 24,
+   "name": "Полет на мотопараплане",
+   "img": "../../img/paragliding_flight1.jpg",
+   "price": "3000"
+  },
+  {
+   "id": 25,
+   "name": "Полет в аэротрубе",
+   "img": "../../img/flight_in_a_wind_tunnel1.jpg",
+   "price": "от 1800"
+  },
+  {
+   "id": 26,
+   "name": "Вечер в куполе",
+   "img": "../../img/evening_in_the_dome1.jpg",
+   "price": "3000"
+  },
+  {
+   "id": 27,
+   "name": "Прогулка на яхте «Чайка»",
+   "img": "../../img/yacht_trip1.jpg",
+   "price": "от 3500"
+  },
+  {
+   "id": 28,
+   "name": "Велопрогулка с пикником",
+   "img": "../../img/bike_ride_with_picnic1.jpg",
+   "price": "3000"
+  },
+  {
+   "id": 29,
+   "name": "Драйв на квадроциклах",
+   "img": "../../img/quad_bike_drive1.jpg",
+   "price": "от 1800"
+  },
+  {
+   "id": 30,
+   "name": "Запись песни в студии",
+   "img": "../../img/recording_in_a_studio1.jpg",
+   "price": "5000"
+  },
+  {
+   "id": 31,
+   "name": "Поездка на болотоходах",
+   "img": "../../img/swamp_ride1.jpg",
+   "price": "3500"
+  },
+  {
+   "id": 32,
+   "name": "Игра в виртуальной реальности",
+   "img": "../../img/virtual_reality_game1.jpg",
+   "price": "600"
+  },
+  {
+   "id": 33,
+   "name": "Романтический пикник",
+   "img": "../../img/romantic_picnic1.jpg",
+   "price": "2500"
   }
 ],
   "comments": [
