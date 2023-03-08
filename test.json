@@ -70,7 +70,7 @@
    "img": "../../img/evening_in_the_dome1.jpg",
    "imgs": [
     {"id": 0,"value": "../../img/evening_in_the_dome1.jpg"},
-    {"id": 1,"value": "../../img/evening_in_the_dome1.jpg"},
+    {"id": 1,"value": "../../img/evening_in_the_dome2.jpg"},
     {"id": 2,"value": "../../img/evening_in_the_dome3.jpg"}
    ],
    "price": "3000",
@@ -187,11 +187,11 @@
   {
    "id": 9,
    "name": "Поездка на болотоходах",
-   "img": "../../img/yacht_trip1.jpg",
+    "img": "../../img/swamp_ride1.jpg",
    "imgs": [
-    {"id": 0,"value": "../../img/yacht_trip1.jpg"},
-    {"id": 1,"value": "../../img/yacht_trip2.jpg"},
-    {"id": 2,"value": "../../img/yacht_trip3.jpg"}
+    {"id": 0,"value": "../../img/swamp_ride1.jpg"},
+    {"id": 1,"value": "../../img/swamp_ride2.jpg"},
+    {"id": 2,"value": "../../img/swamp_ride3.jpg"}
    ],
    "price": "3500",
    "desc": ["Болотоходы на летний период переехали под Сызрань. Всего 100 км от Ульяновска!", 
@@ -208,11 +208,11 @@
   {
    "id": 10,
    "name": "Игра в виртуальной реальности",
-   "img": "../../img/swamp_ride1.jpg",
+   "img": "../../img/virtual_reality_game1.jpg",
    "imgs": [
-    {"id": 0,"value": "../../img/swamp_ride1.jpg"},
-    {"id": 1,"value": "../../img/swamp_ride2.jpg"},
-    {"id": 2,"value": "../../img/swamp_ride3.jpg"}
+    {"id": 0,"value": "../../img/virtual_reality_game1.jpg"},
+    {"id": 1,"value": "../../img/virtual_reality_game2.jpg"},
+    {"id": 2,"value": "../../img/virtual_reality_game3.jpg"}
    ],
    "price": "600",
    "desc": ["Играя в очках виртуальной реальности, вы погружаетесь в совершенно другой мир — у вас другая картинка, другие ощущения, другое восприятие.", 
