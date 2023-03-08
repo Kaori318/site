@@ -179,24 +179,6 @@
    "name": "Запись песни в студии",
    "img": "../../img/recording_in_a_studio1.jpg",
    "price": "5000"
-  },
-  {
-   "id": 31,
-   "name": "Поездка на болотоходах",
-   "img": "../../img/swamp_ride1.jpg",
-   "price": "3500"
-  },
-  {
-   "id": 32,
-   "name": "Игра в виртуальной реальности",
-   "img": "../../img/virtual_reality_game1.jpg",
-   "price": "600"
-  },
-  {
-   "id": 33,
-   "name": "Романтический пикник",
-   "img": "../../img/romantic_picnic1.jpg",
-   "price": "2500"
   }
 ],
   "comments": [
