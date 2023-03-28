@@ -666,6 +666,7 @@
   {
    "id": 21,
    "name": "Игра в виртуальной реальности",
+   "namemobile": "Игра в VR",
    "img": "../../img/virtual_reality_game1.jpg",
    "imgs": [
     {"id": 0,"value": "../../img/virtual_reality_game1.jpg"},
@@ -1028,6 +1029,7 @@
   {
    "id": 32,
    "name": "Игра в виртуальной реальности",
+   "namemobile": "Игра в VR",
    "img": "../../img/virtual_reality_game1.jpg",
    "imgs": [
     {"id": 0,"value": "../../img/virtual_reality_game1.jpg"},
