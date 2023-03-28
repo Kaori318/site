@@ -303,6 +303,7 @@
   {
    "id": 10,
    "name": "Игра в виртуальной реальности",
+   "nameMobile": "Игра в VR",
    "img": "../../img/virtual_reality_game1.jpg",
    "imgs": [
     {"id": 0,"value": "../../img/virtual_reality_game1.jpg"},
