@@ -490,11 +490,11 @@
   {
    "id": 16,
    "name": "Полет на самолете",
-   "img": "../../img/yacht_trip1.jpg",
+   "img": "../../img/flight_by_plane1.jpg",
    "imgs": [
-    {"id": 0,"value": "../../img/yacht_trip1.jpg"},
-    {"id": 1,"value": "../../img/yacht_trip2.jpg"},
-    {"id": 2,"value": "../../img/yacht_trip3.jpg"}
+    {"id": 0,"value": "../../img/flight_by_plane1.jpg"},
+    {"id": 1,"value": "../../img/flight_by_plane2.jpg"},
+    {"id": 2,"value": "../../img/flight_by_plane3.jpg"}
    ],
    "price": "от 6500",
      "prices": [{
