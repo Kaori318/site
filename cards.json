@@ -2,7 +2,7 @@
  {
    "id": 1,
    "name": "Конная прогулка",
-   "img": "../../img/horse_riding1.jpg",
+   "img": "../../../img/horse_riding1.jpg",
    "imgs": [
     {"id": 0,"value": "../../img/horse_riding1.jpg"},
     {"id": 1,"value": "../../img/horse_riding2.jpg"},
