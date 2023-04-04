@@ -517,12 +517,12 @@
      },
   {
    "id": 17,
-   "name": "Велопрогулка с пикником",
-   "img": "../../img/bike_ride_with_picnic1.jpg",
+   "name": "Картинг для взрослых",
+   "img": "../../img/karting_for_adults1.jpg",
    "imgs": [
-    {"id": 0,"value": "../../img/bike_ride_with_picnic1.jpg"},
-    {"id": 1,"value": "../../img/bike_ride_with_picnic2.jpg"},
-    {"id": 2,"value": "../../img/bike_ride_with_picnic3.jpg"}
+    {"id": 0,"value": "../../img/karting_for_adults1.jpg"},
+    {"id": 1,"value": "../../img/karting_for_adults2.jpg"},
+    {"id": 2,"value": "../../img/karting_for_adults3.jpg"}
    ],
    "price": "от 1000",
    "prices": [{
